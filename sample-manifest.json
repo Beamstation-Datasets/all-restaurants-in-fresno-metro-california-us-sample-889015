@@ -1,0 +1,12 @@
+{
+  "export_job_id": "69ccb013-7686-4141-b032-090cf635b651",
+  "id_short": 889015,
+  "published_at": "2026-04-18T20:01:06Z",
+  "repo_name": "all-restaurants-in-fresno-metro-california-us-sample-889015",
+  "sample_asset_name": "beamstation_889015_restaurants-us-fresnoca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/889015/beamstation_889015_restaurants-us-fresnoca_SAMPLE_DIST.csv",
+  "sample_records": 205,
+  "sample_sha256": "d54ce21780544dbf7dd310b66574ff19ef686ccb02ed40152fd8163d6c76996b",
+  "sample_size_bytes": 772679,
+  "total_records": 2054
+}
