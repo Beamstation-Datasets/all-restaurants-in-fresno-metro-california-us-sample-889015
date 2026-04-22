@@ -1,6 +1,6 @@
 # All Restaurants in Fresno (Metro), California, US
 
-> Free BeamStation sample export with 205 rows and masked direct-contact fields.
+> Free BeamStation sample export with 130 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `889015` |
 | Location | Fresno, CA |
 | Category | Restaurants |
-| Full dataset size | 2,054 records |
-| Free sample size | 205 records (9.98%) |
-| Last export | 2026-04-14T19:29:25.530647+00:00 |
+| Full dataset size | 1,305 records |
+| Free sample size | 130 records (9.96%) |
+| Last export | 2026-04-21T21:27:57.712663+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fresno-metro-california-us-sample-889015/releases/download/sample-latest/beamstation_889015_restaurants-us-fresnoca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
